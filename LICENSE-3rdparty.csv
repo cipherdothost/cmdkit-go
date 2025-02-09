@@ -1,0 +1,3 @@
+Origin,License,"License URL",Copyright
+github.com/arp242/zli/internal/term,BSD-3-Clause,https://github.com/arp242/zli/blob/7a37675fadfd854fd0444c8775aa489ee78d277a/internal/term/LICENSE,2024 Martin Tournoij
+golang.org/x/term,BSD-3-Clause,https://cs.opensource.google/go/x/term/+/v0.28.0:LICENSE,2009 The Go Authors

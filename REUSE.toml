@@ -1,0 +1,37 @@
+version = 1
+
+[[annotations]]
+path = ".editorconfig"
+precedence = "override"
+SPDX-FileCopyrightText = "2025 The Cipher Host Team <team@cipher.host>"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = ".github/license-3rdparty.tpl"
+precedence = "override"
+SPDX-FileCopyrightText = "2025 The Cipher Host Team <team@cipher.host>"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = ".gitignore"
+precedence = "override"
+SPDX-FileCopyrightText = "2025 The Cipher Host Team <team@cipher.host>"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "cover.out"
+precedence = "override"
+SPDX-FileCopyrightText = "2025 The Cipher Host Team <team@cipher.host>"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = "internal/term/PATENTS"
+precedence = "override"
+SPDX-FileCopyrightText = "2009 The Go Authors"
+SPDX-License-Identifier = "LicenseRef-GoLicense"
+
+[[annotations]]
+path = "LICENSE-3rdparty.csv"
+precedence = "override"
+SPDX-FileCopyrightText = "2025 The Cipher Host Team <team@cipher.host>"
+SPDX-License-Identifier = "CC0-1.0"
