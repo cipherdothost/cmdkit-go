@@ -125,7 +125,10 @@ guidelines](CONTRIBUTING.md) for more information.
 
 ---
 
-Released under multiple licences and compliant with [the REUSE
-specification](https://reuse.software/spec-3.3/). Please see the
-individual files for details and [the LICENSES directory](LICENSES/) for
-a full list of used licenses.
+The work in this repository complies with the REUSE specification
+(https://reuse.software/spec-3.3/). While [the default license is
+MIT](LICENSE.md), individual files may be licensed differently.
+
+Please see the individual files for details and [the LICENSES
+directory](LICENSES/) for a full list of licenses used in this
+repository.

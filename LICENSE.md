@@ -4,11 +4,9 @@ SPDX-FileCopyrightText: 2025 The Cipher Host Team <team@cipher.host>
 SPDX-License-Identifier: CC0-1.0
 -->
 
-# License
+The MIT License (MIT)
 
-MIT License
-
-Copyright (c) 2025 The Cipher Host Team <team@cipher.host>
+Copyright © 2025 The Cipher Host Team <team@cipher.host>
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the
@@ -28,13 +26,3 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-## Additional licensing information
-
-The work in this repository complies with the REUSE specification
-(https://reuse.software/spec-3.3/). While the default license is MIT as
-shown above, individual files may be licensed differently.
-
-Please see the individual files for details and [the LICENSES
-directory](LICENSES/) for a full list of licenses used in this
-repository.
