@@ -8,7 +8,7 @@ SPDX-License-Identifier: CC0-1.0
 
 [![Go Documentation](https://pkg.go.dev/badge/v3.svg)](https://pkg.go.dev/go.cipher.host/cmdkit)
 [![Go Report Card](https://goreportcard.com/badge/go.cipher.host/cmdkit)](https://goreportcard.com/report/go.cipher.host/cmdkit)
-[![Tests status]( https://github.com/cipherdothost/cmdkit/actions/workflows/ci.yml/badge.svg)](https://github.com/cipherdothost/cmdkit/actions/workflows/ci.yml)
+[![Tests](https://github.com/cipherdothost/cmdkit-go/actions/workflows/ci.yml/badge.svg)](https://github.com/cipherdothost/cmdkit-go/actions/workflows/ci.yml)
 
 Package **cmdkit** provides a simple, intuitive, and kinda fun
 command-line application framework that extends Go's `flag` package with
